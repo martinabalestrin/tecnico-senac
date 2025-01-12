@@ -1,3 +1,3 @@
 # Técnico ADS Senac
 
-Alguns desafios realizados durante o curso técnico do SENAC em 2023 em Java. 
+Alguns desafios realizados em Java durante o curso técnico de Análise e Desenvolvimento de Sistemas do SENAC em 2023.
